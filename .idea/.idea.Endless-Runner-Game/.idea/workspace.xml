@@ -5,41 +5,460 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b465be2d-0752-4587-b153-e4fac23059ce" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/Assets/Feel/FeelDemosURP/Strike/Materials/FeelStrikeBallInside.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Feel/FeelDemosURP/Strike/Materials/FeelStrikeBallInside.mat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Feel/FeelDemosURP/Strike/Materials/FeelStrikeBallOutside.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Feel/FeelDemosURP/Strike/Materials/FeelStrikeBallOutside.mat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Feel/FeelDemosURP/Strike/Materials/FeelStrikePinBody.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Feel/FeelDemosURP/Strike/Materials/FeelStrikePinBody.mat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Feel/FeelDemosURP/Strike/Materials/FeelStrikePinStripes.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Feel/FeelDemosURP/Strike/Materials/FeelStrikePinStripes.mat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Feel/FeelDemosURP/Strike/Materials/FeelStrikeResetFloor.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Feel/FeelDemosURP/Strike/Materials/FeelStrikeResetFloor.mat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Feel/FeelDemosURP/Strike/Materials/FeelStrikeWood.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Feel/FeelDemosURP/Strike/Materials/FeelStrikeWood.mat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Feel/MMTools/Editor/MMMovement/MMPathMovement/MMPathEditor.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Feel/MMTools/Editor/MMMovement/MMPathMovement/MMPathEditor.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Feel/MMTools/Editor/MMMovement/MMPathMovement/MMPathMovementEditor.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Feel/MMTools/Editor/MMMovement/MMPathMovement/MMPathMovementEditor.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Gley/GameServices/Example/Settings/GameServicesDataRuntime.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Gley/GameServices/Example/Settings/GameServicesDataRuntime.asset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Gley/Jumpy/Graphics/Animations/UI/TitleScreenPopup/TitleScreen.anim" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Gley/Jumpy/Graphics/Animations/UI/TitleScreenPopup/TitleScreen.anim" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Gley/Jumpy/Graphics/Animations/UI/TitleScreenPopup/TitleScreenFirstFrame.anim" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Gley/Jumpy/Graphics/Animations/UI/TitleScreenPopup/TitleScreenFirstFrame.anim" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Gley/Jumpy/Graphics/Animations/UI/TitleScreenPopup/TitleScreenLastFrame.anim" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Gley/Jumpy/Graphics/Animations/UI/TitleScreenPopup/TitleScreenLastFrame.anim" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Gley/Jumpy/Resources/UI/InGameInterface.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Gley/Jumpy/Resources/UI/InGameInterface.prefab" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Gley/Jumpy/Resources/UI/TitleScreenPopup.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Gley/Jumpy/Resources/UI/TitleScreenPopup.prefab" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Gley/Jumpy/Scenes/Game.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Gley/Jumpy/Scenes/Game.unity" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Gley/Jumpy/Settings/AllPlatformsSaveDataRuntime.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Gley/Jumpy/Settings/AllPlatformsSaveDataRuntime.asset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Gley/Jumpy/Settings/CrossPromoDataRuntime.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Gley/Jumpy/Settings/CrossPromoDataRuntime.asset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Gley/Jumpy/Settings/DailyRewardsDataRuntime.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Gley/Jumpy/Settings/DailyRewardsDataRuntime.asset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Gley/Jumpy/Settings/EasyIAPDataRuntime.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Gley/Jumpy/Settings/EasyIAPDataRuntime.asset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Gley/Jumpy/Settings/GameServicesDataRuntime.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Gley/Jumpy/Settings/GameServicesDataRuntime.asset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Gley/Jumpy/Settings/LocalizationDataRuntime.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Gley/Jumpy/Settings/LocalizationDataRuntime.asset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Gley/Jumpy/Settings/MobileAdsDataEditor.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Gley/Jumpy/Settings/MobileAdsDataEditor.asset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Gley/Jumpy/Settings/MobileAdsDataRuntime.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Gley/Jumpy/Settings/MobileAdsDataRuntime.asset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Gley/Jumpy/Settings/NotificationsDataRuntime.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Gley/Jumpy/Settings/NotificationsDataRuntime.asset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Gley/Jumpy/Settings/RateGameDataRuntime.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Gley/Jumpy/Settings/RateGameDataRuntime.asset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Packages/manifest.json" beforeDir="false" afterPath="$PROJECT_DIR$/Packages/manifest.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Packages/packages-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/Packages/packages-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.Endless-Runner-Game/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Endless-Runner-Game/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Bumblebee Asset/Prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Bumblebee Asset/Scene.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Bumblebee Asset/Scene/GameLevel.unity" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Bumblebee Asset/Scene/GameLevel.unity.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Bumblebee Asset/Scripts.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Bumblebee Asset/Scripts.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Bumblebee Asset/Textures.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Bumblebee Asset/Textures.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Chacker Assets.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Chacker Assets/Animation.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Chacker Assets/Animation/Gem.anim" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Chacker Assets/Animation/Gem.anim.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Chacker Assets/Animation/NewHS.controller" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Chacker Assets/Animation/NewHS.controller.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Chacker Assets/Animation/NewRecord.anim" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Chacker Assets/Animation/NewRecord.anim.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Chacker Assets/Animation/StartingText.controller" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Chacker Assets/Animation/StartingText.controller.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Chacker Assets/Animation/Text (TMP).controller" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Chacker Assets/Animation/Text (TMP).controller.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Chacker Assets/Animation/gem.controller" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Chacker Assets/Animation/gem.controller.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Chacker Assets/Animation/message.anim" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Chacker Assets/Animation/message.anim.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Chacker Assets/Audio.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Chacker Assets/Audio/410574__yummie__game-background-music-loop-short.mp3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Chacker Assets/Audio/410574__yummie__game-background-music-loop-short.mp3.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Chacker Assets/Audio/GameOver.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Chacker Assets/Audio/GameOver.wav.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Chacker Assets/Audio/PickUpCoin.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Chacker Assets/Audio/PickUpCoin.wav.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Chacker Assets/Audio/button.mp3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Chacker Assets/Audio/button.mp3.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Chacker Assets/Audio/normalBreakStack.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Chacker Assets/Audio/normalBreakStack.wav.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Chacker Assets/Audio/playerDied.mp3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Chacker Assets/Audio/playerDied.mp3.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Chacker Assets/GrassRoadRace.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Chacker Assets/GrassRoadRace/Bridge_Large.FBX" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Chacker Assets/GrassRoadRace/Bridge_Large.FBX.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Chacker Assets/GrassRoadRace/Bridge_Small.FBX" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Chacker Assets/GrassRoadRace/Bridge_Small.FBX.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Chacker Assets/GrassRoadRace/Grass.FBX" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Chacker Assets/GrassRoadRace/Grass.FBX.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Chacker Assets/GrassRoadRace/Ground01.FBX" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Chacker Assets/GrassRoadRace/Ground01.FBX.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Chacker Assets/GrassRoadRace/Ground02.FBX" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Chacker Assets/GrassRoadRace/Ground02.FBX.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Chacker Assets/GrassRoadRace/Ground03.FBX" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Chacker Assets/GrassRoadRace/Ground03.FBX.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Chacker Assets/GrassRoadRace/Ground04.FBX" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Chacker Assets/GrassRoadRace/Ground04.FBX.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Chacker Assets/GrassRoadRace/Ground05.FBX" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Chacker Assets/GrassRoadRace/Ground05.FBX.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Chacker Assets/GrassRoadRace/Ground06.FBX" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Chacker Assets/GrassRoadRace/Ground06.FBX.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Chacker Assets/GrassRoadRace/Ground07.FBX" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Chacker Assets/GrassRoadRace/Ground07.FBX.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Chacker Assets/GrassRoadRace/Ground08.FBX" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Chacker Assets/GrassRoadRace/Ground08.FBX.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Chacker Assets/GrassRoadRace/GroundBlock.FBX" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Chacker Assets/GrassRoadRace/GroundBlock.FBX.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Chacker Assets/GrassRoadRace/GroundIsland.FBX" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Chacker Assets/GrassRoadRace/GroundIsland.FBX.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Chacker Assets/GrassRoadRace/Hurdle01.FBX" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Chacker Assets/GrassRoadRace/Hurdle01.FBX.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Chacker Assets/GrassRoadRace/Hurdle02.FBX" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Chacker Assets/GrassRoadRace/Hurdle02.FBX.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Chacker Assets/GrassRoadRace/Hurdle03.FBX" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Chacker Assets/GrassRoadRace/Hurdle03.FBX.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Chacker Assets/GrassRoadRace/Materials.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Chacker Assets/GrassRoadRace/Materials/Tex_Fence.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Chacker Assets/GrassRoadRace/Materials/Tex_Fence.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Chacker Assets/GrassRoadRace/Materials/Tex_Fence.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Chacker Assets/GrassRoadRace/Materials/Tex_Fence.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Chacker Assets/GrassRoadRace/Materials/Tex_Ground.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Chacker Assets/GrassRoadRace/Materials/Tex_Ground.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Chacker Assets/GrassRoadRace/Materials/Tex_Ground.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Chacker Assets/GrassRoadRace/Materials/Tex_Ground.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Chacker Assets/GrassRoadRace/Materials/Tex_PalmTree.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Chacker Assets/GrassRoadRace/Materials/Tex_PalmTree.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Chacker Assets/GrassRoadRace/Materials/Tex_PalmTree.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Chacker Assets/GrassRoadRace/Materials/Tex_PalmTree.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Chacker Assets/GrassRoadRace/Materials/Tex_Wave.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Chacker Assets/GrassRoadRace/Materials/Tex_Wave.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Chacker Assets/GrassRoadRace/Materials/Tex_Wave.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Chacker Assets/GrassRoadRace/Materials/Tex_Wave.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Chacker Assets/GrassRoadRace/PalmTree.FBX" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Chacker Assets/GrassRoadRace/PalmTree.FBX.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Chacker Assets/GrassRoadRace/Prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Chacker Assets/GrassRoadRace/Prefab/Bridge_Large.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Chacker Assets/GrassRoadRace/Prefab/Bridge_Large.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Chacker Assets/GrassRoadRace/Prefab/Bridge_Small.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Chacker Assets/GrassRoadRace/Prefab/Bridge_Small.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Chacker Assets/GrassRoadRace/Prefab/Grass.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Chacker Assets/GrassRoadRace/Prefab/Grass.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Chacker Assets/GrassRoadRace/Prefab/Ground01.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Chacker Assets/GrassRoadRace/Prefab/Ground01.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Chacker Assets/GrassRoadRace/Prefab/Ground02.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Chacker Assets/GrassRoadRace/Prefab/Ground02.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Chacker Assets/GrassRoadRace/Prefab/Ground03.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Chacker Assets/GrassRoadRace/Prefab/Ground03.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Chacker Assets/GrassRoadRace/Prefab/Ground04.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Chacker Assets/GrassRoadRace/Prefab/Ground04.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Chacker Assets/GrassRoadRace/Prefab/Ground05.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Chacker Assets/GrassRoadRace/Prefab/Ground05.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Chacker Assets/GrassRoadRace/Prefab/Ground06.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Chacker Assets/GrassRoadRace/Prefab/Ground06.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Chacker Assets/GrassRoadRace/Prefab/Ground07.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Chacker Assets/GrassRoadRace/Prefab/Ground07.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Chacker Assets/GrassRoadRace/Prefab/Ground08.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Chacker Assets/GrassRoadRace/Prefab/Ground08.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Chacker Assets/GrassRoadRace/Prefab/GroundBlock.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Chacker Assets/GrassRoadRace/Prefab/GroundBlock.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Chacker Assets/GrassRoadRace/Prefab/GroundIsland.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Chacker Assets/GrassRoadRace/Prefab/GroundIsland.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Chacker Assets/GrassRoadRace/Prefab/Hurdle01.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Chacker Assets/GrassRoadRace/Prefab/Hurdle01.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Chacker Assets/GrassRoadRace/Prefab/Hurdle02.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Chacker Assets/GrassRoadRace/Prefab/Hurdle02.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Chacker Assets/GrassRoadRace/Prefab/Hurdle03.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Chacker Assets/GrassRoadRace/Prefab/Hurdle03.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Chacker Assets/GrassRoadRace/Prefab/PalmTree.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Chacker Assets/GrassRoadRace/Prefab/PalmTree.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Chacker Assets/GrassRoadRace/Prefab/Wave.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Chacker Assets/GrassRoadRace/Prefab/Wave.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Chacker Assets/GrassRoadRace/Scene_GrassRoadRace.unity" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Chacker Assets/GrassRoadRace/Scene_GrassRoadRace.unity.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Chacker Assets/GrassRoadRace/Wave.FBX" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Chacker Assets/GrassRoadRace/Wave.FBX.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Chacker Assets/Materials.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Chacker Assets/Materials/Black.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Chacker Assets/Materials/Black.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Chacker Assets/Materials/Blue.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Chacker Assets/Materials/Blue.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Chacker Assets/Materials/Coin.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Chacker Assets/Materials/Coin.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Chacker Assets/Materials/DarkGray.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Chacker Assets/Materials/DarkGray.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Chacker Assets/Materials/Gem.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Chacker Assets/Materials/Gem.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Chacker Assets/Materials/Gray.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Chacker Assets/Materials/Gray.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Chacker Assets/Materials/Orange.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Chacker Assets/Materials/Orange.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Chacker Assets/Materials/Player.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Chacker Assets/Materials/Player.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Chacker Assets/Materials/Skybox.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Chacker Assets/Materials/Skybox/Mat_Sky PC.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Chacker Assets/Materials/Skybox/Mat_Sky PC.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Chacker Assets/Materials/Skybox/Mat_Sky.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Chacker Assets/Materials/Skybox/Mat_Sky.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Chacker Assets/Materials/Skybox/sky_BK.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Chacker Assets/Materials/Skybox/sky_BK.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Chacker Assets/Materials/Skybox/sky_DN.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Chacker Assets/Materials/Skybox/sky_DN.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Chacker Assets/Materials/Skybox/sky_FR.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Chacker Assets/Materials/Skybox/sky_FR.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Chacker Assets/Materials/Skybox/sky_LF.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Chacker Assets/Materials/Skybox/sky_LF.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Chacker Assets/Materials/Skybox/sky_RT.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Chacker Assets/Materials/Skybox/sky_RT.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Chacker Assets/Materials/Skybox/sky_UP.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Chacker Assets/Materials/Skybox/sky_UP.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Chacker Assets/Materials/White.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Chacker Assets/Materials/White.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Chacker Assets/Materials/Yellow.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Chacker Assets/Materials/Yellow.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Chacker Assets/Models.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Chacker Assets/Models/Character5.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Chacker Assets/Models/Character5/Boy01_Hair_MAT.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Chacker Assets/Models/Character5/Boy01_Hair_MAT.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Chacker Assets/Models/Character5/Boy01_Hands_MAT.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Chacker Assets/Models/Character5/Boy01_Hands_MAT.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Chacker Assets/Models/Character5/Boy01_Head_MAT.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Chacker Assets/Models/Character5/Boy01_Head_MAT.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Chacker Assets/Models/Character5/Boy01_LowerBody_MAT.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Chacker Assets/Models/Character5/Boy01_LowerBody_MAT.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Chacker Assets/Models/Character5/Boy01_Scarf_MAT.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Chacker Assets/Models/Character5/Boy01_Scarf_MAT.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Chacker Assets/Models/Character5/Boy01_Shoes_MAT.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Chacker Assets/Models/Character5/Boy01_Shoes_MAT.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Chacker Assets/Models/Character5/Boy01_UpperBody_MAT.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Chacker Assets/Models/Character5/Boy01_UpperBody_MAT.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Chacker Assets/Models/Character5/Boy_Hair_diffuse.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Chacker Assets/Models/Character5/Boy_Hair_diffuse.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Chacker Assets/Models/Character5/Boy_Hands_diffuse.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Chacker Assets/Models/Character5/Boy_Hands_diffuse.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Chacker Assets/Models/Character5/Boy_Head_diffuse.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Chacker Assets/Models/Character5/Boy_Head_diffuse.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Chacker Assets/Models/Character5/Boy_LowerBody_diffuse.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Chacker Assets/Models/Character5/Boy_LowerBody_diffuse.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Chacker Assets/Models/Character5/Boy_Scarf_diffuse.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Chacker Assets/Models/Character5/Boy_Scarf_diffuse.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Chacker Assets/Models/Character5/Boy_Shoes_diffuse.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Chacker Assets/Models/Character5/Boy_Shoes_diffuse.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Chacker Assets/Models/Character5/Boy_UpperBody_diffuse.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Chacker Assets/Models/Character5/Boy_UpperBody_diffuse.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Chacker Assets/Models/Character5/Fast Run.anim" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Chacker Assets/Models/Character5/Fast Run.anim.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Chacker Assets/Models/Character5/Jumping.anim" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Chacker Assets/Models/Character5/Jumping.anim.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Chacker Assets/Models/Character5/Soccer Tackle.anim" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Chacker Assets/Models/Character5/Soccer Tackle.anim.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Chacker Assets/Models/Character5/Ty.controller" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Chacker Assets/Models/Character5/Ty.controller.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Chacker Assets/Models/Character5/Waving Gesture.anim" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Chacker Assets/Models/Character5/Waving Gesture.anim.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Chacker Assets/Models/Character5/ty 1.controller" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Chacker Assets/Models/Character5/ty 1.controller.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Chacker Assets/Models/Character5/ty.fbx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Chacker Assets/Models/Character5/ty.fbx.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Chacker Assets/Models/Character6.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Chacker Assets/Models/Character6/Bboy Hip Hop Move.anim" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Chacker Assets/Models/Character6/Bboy Hip Hop Move.anim.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Chacker Assets/Models/Character6/Character_Rasta_boy_body.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Chacker Assets/Models/Character6/Character_Rasta_boy_body.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Chacker Assets/Models/Character6/Front Flip.anim" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Chacker Assets/Models/Character6/Front Flip.anim.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Chacker Assets/Models/Character6/Jumping.anim" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Chacker Assets/Models/Character6/Jumping.anim.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Chacker Assets/Models/Character6/Kaya.controller" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Chacker Assets/Models/Character6/Kaya.controller.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Chacker Assets/Models/Character6/OccupyGuy_FaceAnimMap.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Chacker Assets/Models/Character6/OccupyGuy_FaceAnimMap.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Chacker Assets/Models/Character6/OccupyGuy_diffuse.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Chacker Assets/Models/Character6/OccupyGuy_diffuse.jpg.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Chacker Assets/Models/Character6/OccupyGuy_normal.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Chacker Assets/Models/Character6/OccupyGuy_normal.jpg.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Chacker Assets/Models/Character6/OccupyGuy_spec.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Chacker Assets/Models/Character6/OccupyGuy_spec.jpg.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Chacker Assets/Models/Character6/Rasta_Brows_MAT1.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Chacker Assets/Models/Character6/Rasta_Brows_MAT1.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Chacker Assets/Models/Character6/Rasta_Eyes_MAT1.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Chacker Assets/Models/Character6/Rasta_Eyes_MAT1.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Chacker Assets/Models/Character6/Rasta_Mouth_MAT1.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Chacker Assets/Models/Character6/Rasta_Mouth_MAT1.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Chacker Assets/Models/Character6/Running Slide.anim" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Chacker Assets/Models/Character6/Running Slide.anim.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Chacker Assets/Models/Character6/Running.anim" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Chacker Assets/Models/Character6/Running.anim.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Chacker Assets/Models/Character6/kaya 1.controller" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Chacker Assets/Models/Character6/kaya 1.controller.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Chacker Assets/Models/Character6/kaya.fbx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Chacker Assets/Models/Character6/kaya.fbx.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Chacker Assets/Models/Road.fbx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Chacker Assets/Models/Road.fbx.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Chacker Assets/Models/RoadWorksBarrierHigh.fbx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Chacker Assets/Models/RoadWorksBarrierHigh.fbx.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Chacker Assets/Models/RoadWorksBarrierLow.fbx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Chacker Assets/Models/RoadWorksBarrierLow.fbx.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Chacker Assets/Models/TrafficCone.fbx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Chacker Assets/Models/TrafficCone.fbx.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Chacker Assets/Models/character1.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Chacker Assets/Models/character1/Idle.anim" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Chacker Assets/Models/character1/Idle.anim.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Chacker Assets/Models/character1/Jump.anim" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Chacker Assets/Models/character1/Jump.anim.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Chacker Assets/Models/character1/Run.anim" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Chacker Assets/Models/character1/Run.anim.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Chacker Assets/Models/character1/Slide.anim" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Chacker Assets/Models/character1/Slide.anim.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Chacker Assets/Models/character1/TextAnim.anim" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Chacker Assets/Models/character1/TextAnim.anim.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Chacker Assets/Models/character1/Wheel 1.controller" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Chacker Assets/Models/character1/Wheel 1.controller.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Chacker Assets/Models/character1/Wheel.controller" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Chacker Assets/Models/character1/Wheel.controller.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Chacker Assets/Models/character1/Wheel.fbx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Chacker Assets/Models/character1/Wheel.fbx.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Chacker Assets/Models/character2.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Chacker Assets/Models/character2/Amy.controller" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Chacker Assets/Models/character2/Amy.controller.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Chacker Assets/Models/character2/Amy.fbx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Chacker Assets/Models/character2/Amy.fbx.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Chacker Assets/Models/character2/Ch46_1001_Diffuse.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Chacker Assets/Models/character2/Ch46_1001_Diffuse.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Chacker Assets/Models/character2/Ch46_body.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Chacker Assets/Models/character2/Ch46_body.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Chacker Assets/Models/character2/Ch46_nonPBR.controller" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Chacker Assets/Models/character2/Ch46_nonPBR.controller.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Chacker Assets/Models/character2/Dancing.anim" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Chacker Assets/Models/character2/Dancing.anim.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Chacker Assets/Models/character2/Idle.anim" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Chacker Assets/Models/character2/Idle.anim.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Chacker Assets/Models/character2/Jump.anim" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Chacker Assets/Models/character2/Jump.anim.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Chacker Assets/Models/character2/Running.anim" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Chacker Assets/Models/character2/Running.anim.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Chacker Assets/Models/character2/Sprinting Forward Roll.anim" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Chacker Assets/Models/character2/Sprinting Forward Roll.anim.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Chacker Assets/Models/character3.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Chacker Assets/Models/character3/Ch03_1001_Diffuse.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Chacker Assets/Models/character3/Ch03_1001_Diffuse.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Chacker Assets/Models/character3/Ch03_Body.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Chacker Assets/Models/character3/Ch03_Body.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Chacker Assets/Models/character3/Flair.anim" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Chacker Assets/Models/character3/Flair.anim.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Chacker Assets/Models/character3/Idle.anim" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Chacker Assets/Models/character3/Idle.anim.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Chacker Assets/Models/character3/Jumping.anim" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Chacker Assets/Models/character3/Jumping.anim.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Chacker Assets/Models/character3/Michelle Game.controller" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Chacker Assets/Models/character3/Michelle Game.controller.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Chacker Assets/Models/character3/Michelle.fbx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Chacker Assets/Models/character3/Michelle.fbx.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Chacker Assets/Models/character3/MichelleMenu.controller" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Chacker Assets/Models/character3/MichelleMenu.controller.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Chacker Assets/Models/character3/Running Slide.anim" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Chacker Assets/Models/character3/Running Slide.anim.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Chacker Assets/Models/character4.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Chacker Assets/Models/character4/Aj.controller" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Chacker Assets/Models/character4/Aj.controller.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Chacker Assets/Models/character4/Aj.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Chacker Assets/Models/character4/Aj.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Chacker Assets/Models/character4/Boy01_diffuse.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Chacker Assets/Models/character4/Boy01_diffuse.jpg.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Chacker Assets/Models/character4/Corkscrew Kip Up.anim" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Chacker Assets/Models/character4/Corkscrew Kip Up.anim.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Chacker Assets/Models/character4/Jogging.anim" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Chacker Assets/Models/character4/Jogging.anim.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Chacker Assets/Models/character4/Listening To Music.anim" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Chacker Assets/Models/character4/Listening To Music.anim.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Chacker Assets/Models/character4/Sword And Shield Jump.anim" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Chacker Assets/Models/character4/Sword And Shield Jump.anim.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Chacker Assets/Models/character4/aj 1.controller" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Chacker Assets/Models/character4/aj 1.controller.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Chacker Assets/Models/character4/aj.fbx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Chacker Assets/Models/character4/aj.fbx.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Chacker Assets/Models/gem.fbx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Chacker Assets/Models/gem.fbx.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Chacker Assets/Prefabs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Chacker Assets/Prefabs/3Gems.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Chacker Assets/Prefabs/3Gems.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Chacker Assets/Prefabs/4Gems.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Chacker Assets/Prefabs/4Gems.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Chacker Assets/Prefabs/AudioManager.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Chacker Assets/Prefabs/AudioManager.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Chacker Assets/Prefabs/GemEffect.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Chacker Assets/Prefabs/GemEffect.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Chacker Assets/Prefabs/Players.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Chacker Assets/Prefabs/Players/Aj.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Chacker Assets/Prefabs/Players/Aj.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Chacker Assets/Prefabs/Players/Amy.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Chacker Assets/Prefabs/Players/Amy.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Chacker Assets/Prefabs/Players/Kaya.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Chacker Assets/Prefabs/Players/Kaya.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Chacker Assets/Prefabs/Players/Michelle.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Chacker Assets/Prefabs/Players/Michelle.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Chacker Assets/Prefabs/Players/Ty.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Chacker Assets/Prefabs/Players/Ty.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Chacker Assets/Prefabs/Players/Wheel.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Chacker Assets/Prefabs/Players/Wheel.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Chacker Assets/Prefabs/Post Processing.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Chacker Assets/Prefabs/Post Processing.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Chacker Assets/Prefabs/Tiles.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Chacker Assets/Prefabs/Tiles/Tile 0.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Chacker Assets/Prefabs/Tiles/Tile 0.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Chacker Assets/Prefabs/Tiles/Tile 1.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Chacker Assets/Prefabs/Tiles/Tile 1.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Chacker Assets/Prefabs/Tiles/Tile 2.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Chacker Assets/Prefabs/Tiles/Tile 2.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Chacker Assets/Prefabs/Tiles/Tile 3.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Chacker Assets/Prefabs/Tiles/Tile 3.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Chacker Assets/Prefabs/Tiles/Tile 4.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Chacker Assets/Prefabs/Tiles/Tile 4.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Chacker Assets/Prefabs/Tiles/Tile 5.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Chacker Assets/Prefabs/Tiles/Tile 5.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Chacker Assets/Prefabs/Tiles/Tile 6.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Chacker Assets/Prefabs/Tiles/Tile 6.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Chacker Assets/Prefabs/Tiles/Tile 7.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Chacker Assets/Prefabs/Tiles/Tile 7.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Chacker Assets/Prefabs/gem.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Chacker Assets/Prefabs/gem.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Chacker Assets/Scenes.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Chacker Assets/Scenes/Level.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Chacker Assets/Scenes/Level.unity" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Chacker Assets/Scenes/Level.unity.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Chacker Assets/Scenes/Level/Post Processing Profile 2.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Chacker Assets/Scenes/Level/Post Processing Profile 2.asset.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Chacker Assets/Scenes/Menu.unity" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Chacker Assets/Scenes/Menu.unity.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Chacker Assets/Scripts.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Chacker Assets/Scripts/Game.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Chacker Assets/Scripts/Game/AdManager.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Chacker Assets/Scripts/Game/AdManager.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Chacker Assets/Scripts/Game/AudioManager.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Chacker Assets/Scripts/Game/AudioManager.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Chacker Assets/Scripts/Game/LevelEvents.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Chacker Assets/Scripts/Game/LevelEvents.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Chacker Assets/Scripts/Game/MainMenu.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Chacker Assets/Scripts/Game/MainMenu.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Chacker Assets/Scripts/Game/Randomness.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Chacker Assets/Scripts/Game/Randomness.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Chacker Assets/Scripts/Game/SkyboxRotator.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Chacker Assets/Scripts/Game/SkyboxRotator.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Chacker Assets/Scripts/Game/Sound.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Chacker Assets/Scripts/Game/Sound.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Chacker Assets/Scripts/Game/SwipeManager.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Chacker Assets/Scripts/Game/SwipeManager.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Chacker Assets/Scripts/Player.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Chacker Assets/Scripts/Player/CameraController.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Chacker Assets/Scripts/Player/CameraController.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Chacker Assets/Scripts/Player/PlayerController.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Chacker Assets/Scripts/Player/PlayerController.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Chacker Assets/Scripts/Player/PlayerManager.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Chacker Assets/Scripts/Player/PlayerManager.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Chacker Assets/Scripts/Store.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Chacker Assets/Scripts/Store/ShopElement.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Chacker Assets/Scripts/Store/ShopElement.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Chacker Assets/Scripts/Store/ShopManager.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Chacker Assets/Scripts/Store/ShopManager.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Chacker Assets/Scripts/Tiles.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Chacker Assets/Scripts/Tiles/DisableAfter.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Chacker Assets/Scripts/Tiles/DisableAfter.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Chacker Assets/Scripts/Tiles/FloatingOrigin.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Chacker Assets/Scripts/Tiles/FloatingOrigin.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Chacker Assets/Scripts/Tiles/Gem.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Chacker Assets/Scripts/Tiles/Gem.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Chacker Assets/Scripts/Tiles/ObjectPool.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Chacker Assets/Scripts/Tiles/ObjectPool.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Chacker Assets/Scripts/Tiles/Tile.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Chacker Assets/Scripts/Tiles/Tile.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Chacker Assets/Scripts/Tiles/TileManager.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Chacker Assets/Scripts/Tiles/TileManager.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Chacker Assets/Textures.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Chacker Assets/Textures/Texture001.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Chacker Assets/Textures/Texture001.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Chacker Assets/Textures/Texture002.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Chacker Assets/Textures/Texture002.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Chacker Assets/Textures/Texture003.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Chacker Assets/Textures/Texture003.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Chacker Assets/Textures/Texture004.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Chacker Assets/Textures/Texture004.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Chacker Assets/Textures/Texture005.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Chacker Assets/Textures/Texture005.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Chacker Assets/Textures/Texture006.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Chacker Assets/Textures/Texture006.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Chacker Assets/Textures/Texture007.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Chacker Assets/Textures/Texture007.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Chacker Assets/Textures/Texture008.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Chacker Assets/Textures/Texture008.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Chacker Assets/Textures/Texture009.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Chacker Assets/Textures/Texture009.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectSettings/EditorBuildSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/EditorBuildSettings.asset" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ProjectSettings/ProjectSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/ProjectSettings.asset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProjectSettings/QualitySettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/QualitySettings.asset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProjectSettings/URPProjectSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/URPProjectSettings.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectSettings/TagManager.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/TagManager.asset" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Assets/Bumblebee Asset/Scripts/Game/AdManager.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -49,24 +468,24 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   },
-  "keyToStringList": {
-    "rider.external.source.directories": [
-      "C:\\Users\\Admin\\AppData\\Roaming\\JetBrains\\Rider2023.1\\resharper-host\\DecompilerCache",
-      "C:\\Users\\Admin\\AppData\\Roaming\\JetBrains\\Rider2023.1\\resharper-host\\SourcesCache",
-      "C:\\Users\\Admin\\AppData\\Local\\Symbols\\src"
+  &quot;keyToStringList&quot;: {
+    &quot;rider.external.source.directories&quot;: [
+      &quot;C:\\Users\\Admin\\AppData\\Roaming\\JetBrains\\Rider2023.1\\resharper-host\\DecompilerCache&quot;,
+      &quot;C:\\Users\\Admin\\AppData\\Roaming\\JetBrains\\Rider2023.1\\resharper-host\\SourcesCache&quot;,
+      &quot;C:\\Users\\Admin\\AppData\\Local\\Symbols\\src&quot;
     ]
   }
-}]]></component>
+}</component>
   <component name="RunManager" selected="Attach to Unity Editor.Attach to Unity Editor">
     <configuration name="Start Unity" type="RunUnityExe" factoryName="Unity Executable">
       <option name="EXE_PATH" value="C:\Program Files\Unity\Hub\Editor\2022.3.10f1\Editor\Unity.exe" />
@@ -114,6 +533,7 @@
       <option name="presentableId" value="Default" />
       <updated>1710909339277</updated>
       <workItem from="1710909340835" duration="1799000" />
+      <workItem from="1710989182955" duration="6995000" />
     </task>
     <servers />
   </component>
